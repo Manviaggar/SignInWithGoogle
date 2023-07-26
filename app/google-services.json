@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069604394974",
+    "project_id": "weatherhelp-b3f61",
+    "storage_bucket": "weatherhelp-b3f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069604394974:android:b92edf035b6a8042c4ef4f",
+        "android_client_info": {
+          "package_name": "com.example.weatherhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069604394974-rktcjer827eg87rqfh8mmhdmg8bsp4od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC209j6D9L27NogA8UMiF31xJTidvTfTIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069604394974-rktcjer827eg87rqfh8mmhdmg8bsp4od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
